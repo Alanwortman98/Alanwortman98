@@ -1,4 +1,4 @@
-## Texas aint no place for amatures
+## Texas ain't no place for amateurs
 
 <!--
 **Alanwortman98/Alanwortman98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
